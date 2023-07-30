@@ -21,13 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tweetAtPiyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-in/" height="30" width="40" /></a>
-
-<a href="https://fb.com/https://www.facebook.com/piyushAtFB/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/piyushAtFB/" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sahu_piyush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sahu_piyush_" height="30" width="40" /></a>
+<a href="https://twitter.com/tweetAtPiyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-in/" height="30" width="40" /></a> <a href="https://fb.com/https://www.facebook.com/piyushAtFB/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/piyushAtFB/" height="30" width="40" /></a> <a href="https://instagram.com/sahu_piyush_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sahu_piyush_" height="30" width="40" /></a>
 
 <!-- <a href="https://www.youtube.com/c/ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/ayush600b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush600b" height="30" width="40" /></a> -->
@@ -49,6 +43,6 @@
 </p>
 
 ## Watch my contributions get eaten by a snake 🐍
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Piyush-onGIT/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Piyush-onGIT/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/TheArchitect19/snakegame/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![snake gif](https://github.com/Piyush-onGIT/Actions/blob/output/github-contribution-grid-snake.svg)
-<!-- ![snake gif](https://github.com/Piyush-onGIT/Piyush-onGIT/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake gif](https://github.com/TheArchitect19/TheArchitect19/blob/output/github-contribution-grid-snake.gif) -->
