@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyush-onGIT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Piyush-onGIT" alt="Trophies" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Piyush-onGIT" alt="Trophies" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/tweetAtPiyush" target="blank"><img src="https://img.shields.io/twitter/follow/tweetAtPiyush?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a> </p>
 
