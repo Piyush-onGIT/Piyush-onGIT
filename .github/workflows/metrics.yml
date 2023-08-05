@@ -43,7 +43,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
+          # plugin_notable: yes
           plugin_notable_from: organization
           
        
@@ -58,8 +58,9 @@ jobs:
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_sections: answers
           plugin_stackoverflow_user: 10224590
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          # below 2 are for Recently starred repo
+          # plugin_stars: yes
+          # plugin_stars_limit: 4
           
          
           plugin_skyline: yes
