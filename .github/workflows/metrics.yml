@@ -52,12 +52,12 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 1
-          plugin_stackoverflow_lines: 0
-          plugin_stackoverflow_lines_snippet: 0
-          plugin_stackoverflow_sections: answers
-          plugin_stackoverflow_user: 10224590
+          # plugin_stackoverflow: yes
+          # plugin_stackoverflow_limit: 1
+          # plugin_stackoverflow_lines: 0
+          # plugin_stackoverflow_lines_snippet: 0
+          # plugin_stackoverflow_sections: answers
+          # plugin_stackoverflow_user: 10224590
           # below 2 are for Recently starred repo
           # plugin_stars: yes
           # plugin_stars_limit: 4
