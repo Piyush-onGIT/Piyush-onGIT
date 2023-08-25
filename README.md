@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Piyush-onGIT" alt="Trophies" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/tweetAtPiyush" target="blank"><img src="https://img.shields.io/twitter/follow/tweetAtPiyush?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/tweetAtPiyush" target="blank"><img src="https://img.shields.io/twitter/follow/tweetAtPiyush?logo=twitter&style=for-the-badge" alt="Twitter Follow Button" /></a> </p>
 
 - 🔭 I’m currently working on [PM](https://pandrimarket.com/)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piyush-onGIT](https://github.com/Piyush-onGIT)
 
-- 📫 How to reach me **piyush.at.googl@gmail.com**
+- 📫 How to reach me **piyush.at.googl@gmail.com** -->
 
 <!-- - ⚡ Fun fact **I think I am funny Haha!!!** -->
 
