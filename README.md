@@ -1,7 +1,7 @@
 <!-- [![@piyushholo's Holopin board](https://holopin.io/api/user/board?user=piyushholo)](https://holopin.io/@piyushholo) -->
 
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">A Competitive Programmer and a Developer</h3>
+<h3 align="center">A Developer and a Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyush-onGIT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
